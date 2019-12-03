@@ -1,4 +1,4 @@
-Codepen: https://codepen.igit sto/DanBalluff/pen/dyPPNRd?editors=1100
+Codepen: https://codepen.io/DanBalluff/pen/dyPPNRd
 
     1. What is Semantic HTML? 
         Giving meaning to content
